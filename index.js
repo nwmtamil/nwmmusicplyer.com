@@ -31,7 +31,7 @@ var all_name = [
     "Keep Your Mind <br> Wide Open",
     "WIT YOU",
     "BABY I LOVE"];
-
+ 
 var all_img = [
     "https://z.zz.fo/qIrbO.png",
     "https://z.zz.fo/mJepB.png",  
