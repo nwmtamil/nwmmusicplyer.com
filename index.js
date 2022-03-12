@@ -50,7 +50,7 @@ var all_audio = [
 
 var all_yt = [
     "MM EDITZ",
-    "UNKNOWM PERSON",
+    "TN LOOSER CREATION",
     "BEAST REMIXZ",
     "STEVE EDITZ",
     "NWM",
@@ -58,7 +58,7 @@ var all_yt = [
 
 var all_ytch = [
     "https://www.youtube.com/channel/UChAvpl3XC8rcMYvQh9lQk-Q",
-    "#",
+    "https://www.youtube.com/channel/UChpeSVCT9edhfM3fnWj3aQg",
     "https://www.youtube.com/channel/UCNaog8jZlPeZI17JF32dGaA",
     "https://www.youtube.com/channel/UCpPG-MDcQc20EIsPb5Fe5RA",
     "https://www.youtube.com/channel/UCC4pZxpeGOdxpsP_qYISRKA",
