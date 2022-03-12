@@ -25,30 +25,40 @@ var ball = document.querySelector('#ball');
 
 
 var all_name = [
+    "Bae",
+    "Oru Pakkam Uthadu Marupakkam Neruppu",
     "Into Your Arms",
     "Keep Your Mind <br> Wide Open",
     "WIT YOU",
     "BABY I LOVE"];
 
 var all_img = [
+    "https://z.zz.fo/qIrbO.png",
+    "https://z.zz.fo/mJepB.png",  
     "https://z.zz.fo/VDmdd.png",
     "https://z.zz.fo/yBTG1.png",
     "https://z.zz.fo/e2iWp.png",
     "https://z.zz.fo/iIMYM.png"];
 
 var all_audio = [
+    "https://z.zz.fo/Hpnsp.m4a",
+    "https://z.zz.fo/jwVOS.m4a",
     "https://z.zz.fo/pLSJt.m4a",
     "https://z.zz.fo/A9IoH.m4a",
     "https://z.zz.fo/oiK8E.m4a",
     "https://z.zz.fo/FF8vM.m4a"];
 
 var all_yt = [
+    "MM EDITZ",
+    "UNKNOWM PERSON",
     "BEAST REMIXZ",
     "STEVE EDITZ",
     "NWM",
     "NWM"];
 
 var all_ytch = [
+    "https://www.youtube.com/channel/UChAvpl3XC8rcMYvQh9lQk-Q",
+    "#",
     "https://www.youtube.com/channel/UCNaog8jZlPeZI17JF32dGaA",
     "https://www.youtube.com/channel/UCpPG-MDcQc20EIsPb5Fe5RA",
     "https://www.youtube.com/channel/UCC4pZxpeGOdxpsP_qYISRKA",
